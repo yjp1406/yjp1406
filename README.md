@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello there! 👋 I'm Yagnesh, a final-year student hailing from the vibrant city of Ahmedabad 🌆. I'm passionate about all things backend web development, and I thrive on solving complex coding challenges. You can often find me immersed in LeetCode problems or testing my skills in coding contests on platforms like Codechef, Codeforces, and LeetCode. Let's connect and collaborate on some exciting projects! 🚀</p>
+<p align="left">I'm Yagnesh, a final-year student at Ahmedabad University . I'm a passionate backend developer, and I thrive on solving complex coding challenges. You can often find me immersed in LeetCode problems or testing my skills in coding contests on platforms like Codechef, Codeforces, and LeetCode. Let's connect and collaborate on some exciting projects! 🚀</p>
 
 ###
 
