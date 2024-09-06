@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Yagnesh, a final-year student at Ahmedabad University . I'm a passionate backend developer, and I thrive on solving complex coding challenges. You can often find me immersed in LeetCode problems or testing my skills in coding contests on platforms like Codechef, Codeforces, and LeetCode. Let's connect and collaborate on some exciting projects! 🚀</p>
+<p align="left">I'm Yagnesh Patel, a passionate and skilled Fullstack Developer with a B.Tech in Computer Science & Engineering. With expertise in languages like JavaScript, Dart, Python, C++, and PHP, and frameworks such as Node.js, Flutter, React.js, and Laravel, I specialize in developing robust, scalable, and user-centric solutions. 🚀</p>
 
 ###
 
@@ -72,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-</div>flutter
+</div>
 
 ###
 
